@@ -9,4 +9,5 @@ openai
 google-generativeai
 huggingface_hub
 reportlab
-sklearn
+scikit-learn
+
