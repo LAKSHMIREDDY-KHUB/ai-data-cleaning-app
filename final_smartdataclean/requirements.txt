@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
+openai
+google-generativeai
+huggingface_hub
+reportlab
